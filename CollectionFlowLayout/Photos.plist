@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Lorem ipsum dolor sit amet</string>
+		<key>comment</key>
+		<string>Integer vulputate risus sit amet dui eleifend maximus. Donec bibendum nec ex et semper. Maecenas sit amet feugiat velit. Nunc vitae venenatis felis.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Morbi enim sem</string>
+		<key>comment</key>
+		<string>Vivamus scelerisque scelerisque mauris. Nunc accumsan et lectus a semper. Aenean finibus dui vel justo porttitor, vitae tristique velit pharetra.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Fusce facilisis cursus </string>
+		<key>comment</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consequat tortor nibh, nec rhoncus justo molestie et.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Donec eu eros arcu</string>
+		<key>comment</key>
+		<string>Suspendisse ut consectetur nisi. Nullam odio tellus, dictum eu rutrum quis, elementum quis nulla. </string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Sed volutpat dignissim</string>
+		<key>comment</key>
+		<string>Nulla pellentesque ullamcorper purus, et dictum sapien consectetur quis. Cras volutpat nibh in molestie commodo.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>In hac habitasse platea</string>
+		<key>comment</key>
+		<string>Proin sodales massa malesuada odio congue volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Praesent libero ligula</string>
+		<key>comment</key>
+		<string>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi elementum lorem diam, a tincidunt nibh rhoncus non.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Sed malesuada in est</string>
+		<key>comment</key>
+		<string>Morbi maximus felis quis sapien rutrum tristique. Sed rhoncus sodales sapien, condimentum feugiat ligula fermentum id. </string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Phasellus eu nisi non mi</string>
+		<key>comment</key>
+		<string>Phasellus faucibus pretium massa a scelerisque. Proin non purus risus.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Class aptent taciti sociosqu</string>
+		<key>comment</key>
+		<string>Vestibulum ex nibh, vulputate ac magna eu, volutpat congue augue. Sed nisi felis, viverra ac sem a, volutpat gravida turpis.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Donec gravida erat ac turpis </string>
+		<key>comment</key>
+		<string>Curabitur a imperdiet quam. Cras et vulputate enim, at commodo ante. </string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Vivamus dignissim urna</string>
+		<key>comment</key>
+		<string>Etiam sollicitudin id lacus id suscipit. Quisque in turpis purus. Vivamus ex velit, bibendum quis ornare sed, vulputate vitae nunc. </string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Suspendisse fringilla turpis </string>
+		<key>comment</key>
+		<string>In tristique mi sed odio pretium lobortis. Aliquam id erat vitae risus dignissim pulvinar at volutpat purus.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Nullam in metus dapibus</string>
+		<key>comment</key>
+		<string>In non arcu euismod, consequat nunc et, maximus nunc. Morbi condimentum congue iaculis.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>caption</key>
+		<string>Nullam vel porta eros</string>
+		<key>comment</key>
+		<string>Suspendisse non leo purus. Maecenas in nulla ultrices, lobortis orci sed, interdum orci.</string>
+	</dict>
+</array>
+</plist>

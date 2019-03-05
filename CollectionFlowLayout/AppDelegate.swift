@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  CollectionFlowLayout
-//
-//  Created by user on 1/14/19.
-//  Copyright © 2019 user. All rights reserved.
-//
 
 import UIKit
 
@@ -12,10 +5,30 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    let initialLayout:Layout = .featuredCellLayout
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        window = UIWindow()
+        
+        var layout:UICollectionViewLayout
+        switch initialLayout {
+        case .stretchyHeaderLayout:
+            layout = StretchyHeaderLayout()
+        case .pinterestLayout:
+            layout = PinterestLayout()
+        case .stickyHeadersLayout:
+            layout = StickyHeadersLayout()
+        case .featuredCellLayout:
+            layout = FeaturedCellLayout()
+        case .slantedLayout:
+            layout = SlantedlLayout()
+        case .circularLayout:
+            layout = CircularLayout()
+        }
+        let vc = CollectionViewController(collectionViewLayout: layout, layoutType:initialLayout)
+        
+        window?.rootViewController = vc
+        window?.makeKeyAndVisible()
         return true
     }
 
